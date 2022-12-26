@@ -1,0 +1,13 @@
+name = "CRTBP"
+uuid = "b6f2d729-1f18-4be3-81b8-6ee7bb185e2a"
+authors = ["Naoya Ozaki"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
